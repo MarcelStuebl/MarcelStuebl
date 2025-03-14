@@ -1,5 +1,6 @@
 ## Hi there 👋
-![MarcelStuebl](https://github-readme-stats.vercel.app/api?username=DEIN_USERNAME&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=MarcelStuebl&show_icons=true&theme=radical)
+
 
 
 <!--
