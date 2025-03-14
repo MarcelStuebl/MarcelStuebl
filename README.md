@@ -1,4 +1,4 @@
-<h1 align="center">Hey, ich bin Marcel Stuebl! 👋</h1>
+<h1 align="center">👋 Hey, ich bin Marcel Stuebl!</h1>
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A3A&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast;Open-Source+Lover" alt="Typing SVG" />
 </p>
@@ -7,9 +7,7 @@
 
 ## 🚀 **Top Programmiersprachen**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelStuebl&layout=compact&theme=radical" alt="Top Languages">
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelStuebl&layout=compact&theme=radical&token=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)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelStuebl&layout=compact&theme=radical&token=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" alt="Top Languages">
 </p>
 
 ---
@@ -37,21 +35,3 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=MarcelStuebl&label=Profile+Views&color=red&style=flat-square" alt="Profilaufrufe" />
 </p>
-
-
-
-
-<!--
-**MarcelStuebl/MarcelStuebl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
