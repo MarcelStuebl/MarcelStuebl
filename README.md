@@ -8,6 +8,8 @@
 ## 🚀 **Top Programmiersprachen**  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelStuebl&layout=compact&theme=radical" alt="Top Languages">
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MarcelStuebl&layout=compact&theme=radical&token=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)
+
 </p>
 
 ---
