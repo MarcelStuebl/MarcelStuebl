@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A3A&center=true&vCenter=true&width=280&lines=Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=7500&pause=5000&color=F73A3A&center=true&vCenter=true&width=280&lines=Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
 ```assembly
