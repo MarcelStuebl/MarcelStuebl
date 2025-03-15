@@ -1,5 +1,8 @@
 <h1 align="center">This is me, I'm a <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A3A&width=300&lines=software%20developer;tech%20enthusiast" alt="Typing SVG" /></h1>
-
+<p align="center">
+  This is me, I'm a 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A3A&center=true&vCenter=true&width=300&lines=Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
+</p>
 
 ```assembly
 section .data
