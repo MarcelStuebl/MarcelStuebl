@@ -5,6 +5,7 @@
 ```assembly
 section .data
     name           db "Marcel", 0
+    gender         db "male", 0
     location       db "Austria", 0
     region         db "OOE", 0
     organization   db "HTL-Steyr", 0
