@@ -6,6 +6,7 @@
 section .data
     name           db "Marcel", 0
     location       db "Austria", 0
+    region         db "OOE", 0
     organization   db "HTL-Steyr", 0
     hobbies        db "alpine climbing, ski touring, skiing, high altitude hiking", 0
     languages      db "C, Java, Assembly, PHP, HTML, CSS, Javascript", 0
