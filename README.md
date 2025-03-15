@@ -19,10 +19,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A3A&center=true&vCenter=true&width=435&lines=Software+Developer;Tech+Enthusiast" alt="Typing SVG" />
 </p>
 
-```assembly
-; ============================================
-;  PROFILE INFORMATION (Assembly Style)
-; ============================================
+
 section .data
     name           db "Marcel", 0
     location       db "Austria", 0
