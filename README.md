@@ -10,7 +10,7 @@ section .data
     region         db "OOE", 0
     organization   db "HTL-Steyr", 0
     hobbies        db "alpine climbing, ski touring, skiing, high altitude hiking", 0
-    languages      db "C, Java, Assembly, PHP, HTML, CSS, Javascript, MySQL", 0
+    languages      db "C, Java, Assembly, PHP, HTML, CSS, Javascript, MySQL, Markdown", 0
     ip-address     db "127.0.0.0", 0
     if-schleife    db "https://if-schleife.de/", 0
 ```
