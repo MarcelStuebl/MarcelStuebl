@@ -15,3 +15,4 @@ section .data
     if-schleife    db "https://if-schleife.de/", 0
 ```
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MarcelStuebl&hide=contribs,prs)
